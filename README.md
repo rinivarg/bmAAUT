@@ -1,5 +1,5 @@
 # bmAAUT
-This GitHub repository contains the data table and code for analysis for the manscript titled (as of 05/15/2020): "The Probability of Choosing Both Hands ¬Depends on an Interaction Between Motor Capacity and Limb-Specific Control in Chronic Stroke" 
+This GitHub repository contains the data table and code for analysis for the manscript titled (as of 05/15/2020): "The Probability of Choosing Both Hands Depends on an Interaction Between Motor Capacity and Limb-Specific Control in Chronic Stroke" 
 
 1) **Data:** bmAAUT.csv
 2) **Analysis code on Jupyter Notebook:** bmAAUT_Analysis_Code.ipynb
