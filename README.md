@@ -11,6 +11,5 @@ This GitHub repository contains the data table and code for analysis for the man
 
 3) **Analysis code for viewing only:** [bmAAUT_Analysis_Code.html](https://github.com/rinivarg/bmAAUT/blob/master/bmAAUT_Analysis_Code.html)
     - To view a marked down version of the analysis code, download and open the html file.
-4) **multiplot.R** is [a function file in R](https://github.com/rinivarg/bmAAUT/blob/master/multiplot.R) for subplots presented in Figure 2 and Figure 3.
 
 Preprint information is forthcoming.
