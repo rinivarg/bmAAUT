@@ -1,6 +1,7 @@
 # bmAAUT
+[![OSF](https://img.shields.io/badge/DOI%20-10.17605%2Fosf.io%2Fuh574-yellowgreen)](https://osf.io/uh574/)
 [![Funding](https://img.shields.io/badge/NIH-F31HD098796-blue)](https://grantome.com/grant/NIH/F31-HD098796-01)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/rinivarg.svg?style=social&label=@rinivarg)](https://twitter.com/rinivarg)<br>
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/rinivarg.svg?style=social&label=@rinivarg)](https://twitter.com/rinivarg)
 
 This GitHub repository contains the data table and code for analysis for the manscript titled (as of 05/15/2020): "The Probability of Choosing Both Hands Depends on an Interaction Between Motor Capacity and Limb-Specific Control in Chronic Stroke"
 
