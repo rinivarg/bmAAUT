@@ -3,7 +3,8 @@
 [![Funding](https://img.shields.io/badge/NIH-F31HD098796-blue)](https://grantome.com/grant/NIH/F31-HD098796-01)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/rinivarg.svg?style=social&label=@rinivarg)](https://twitter.com/rinivarg)
 
-This GitHub repository contains the data table and code for analysis for the manscript titled (as of 05/15/2020): **The Probability of Choosing Both Hands Depends on an Interaction Between Motor Capacity and Limb-Specific Control in Chronic Stroke.**
+This GitHub repository contains the data table and code for analysis for the paper published in *Experimental Brain Research* titled: [**The Probability of Choosing Both Hands Depends on an Interaction Between Motor Capacity and Limb-Specific Control in Chronic Stroke.**](https://link.springer.com/article/10.1007/s00221-020-05909-5)
+
 
 1) **Data:** [bmAAUT.csv](https://github.com/rinivarg/bmAAUT/blob/master/bmAAUT_data.csv)
 2) **Analysis code on Jupyter Notebook:** [bmAAUT_Analysis_Code.ipynb](https://github.com/rinivarg/bmAAUT/blob/master/bmAAUT_Analysis_Code.ipynb). 
